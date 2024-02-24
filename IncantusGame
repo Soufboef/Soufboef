@@ -1,0 +1,6 @@
+  git branch -m IncantusSorcerersGame IncantusSorcerersGame
+  git fetch origin
+  git branch -u origin/IncantusSorcerersGame IncantusSorcerersGame
+  git remote set-head origin -a
+
+Discord Link: https://disboard.org/nl/server/1100801302738505860
